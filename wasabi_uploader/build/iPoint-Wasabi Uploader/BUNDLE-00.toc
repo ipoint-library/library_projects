@@ -1,0 +1,3 @@
+([('iPoint-Wasabi Uploader',
+   '/Users/evanmeeks/Desktop/FinalApp/iPoint-Wasabi Uploader',
+   'EXECUTABLE')],)

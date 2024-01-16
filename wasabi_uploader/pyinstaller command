@@ -1,0 +1,1 @@
+pyinstaller --onefile --windowed --add-data "Shell.sh:." --add-data "Wasabi_Uploader.py:." --name "iPoint-Wasabi Uploader" --distpath ~/Desktop/FinalApp --icon "icon_170x170.icns" Wasabi_Uploader.py 
