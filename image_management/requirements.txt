@@ -1,6 +1,0 @@
-requests==2.25.1
-Pillow==9.0.1
-boto3==1.34.18
-pytesseract==0.3.10
-botocore==1.34.18
-selenium==4.16.0
